@@ -1,0 +1,8 @@
+pdfkit==1.0.0
+jinja2
+numpy==1.21.5
+seaborn
+paho-mqtt
+matplotlib
+pandas
+#sudo apt-get install wkhtmltopdf
