@@ -3,6 +3,8 @@ jinja2
 numpy==1.21.5
 seaborn
 paho-mqtt
+selenium
 matplotlib
 pandas
 #sudo apt-get install wkhtmltopdf
+npm install puppeteer
